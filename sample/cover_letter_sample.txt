@@ -1,0 +1,90 @@
+Dear Mr./Mrs./Ms. [Manager’s Name],
+
+I was pleased to learn of the available Data Scientist position at [Company name] posted on [website]. With my Master of Science in Statistics and four years of experience managing data-related solutions under my belt, I am confident I will be a valuable asset to your team.
+
+It would be a pleasure to learn more about [company]’s expansion plans and provide further insight into how my highly developed data analytic abilities, experience managing large data sets, robust predictive analytics, and machine learning skills can help your company achieve these results. Some notable contributions to my previous employers include:
+
+Conducted a data regression analysis of the relationship between company stock prices and industry trends, achieving a 15% more accurate prediction of performance than previous years
+Used predictive analytics such as machine learning and data mining techniques to forecast company sales of new products with a 95% accuracy rate
+Thank you for your time and for considering my candidacy for this position. I look forward to hearing from you in the near future to schedule an interview.
+
+Dear Hiring Manager,
+
+I am applying for the position of [position name] with your company as advertised on [company website / Linkedin / job board website].
+
+As much as I’m into data manipulation, it’s the analysis of data that really gets me going. I like to explore the relationships between numbers, and translate digits and spreadsheets into stories. In the age of big data, these stories become actionable solutions and strategies for businesses, and I take pride in my ability to make data accessible to both executive decision-makers and frontline sales staff.
+
+On a personal level, I am [soft_skill_past_tense], [soft_skill_past_tense], and [soft_skill_past_tense] in my work; the only thing cleaner than my room are my spreadsheets. I have strong communication skills with a knack for clear and illuminating presentation. I’m comfortable on my own facing the numbers, but I really enjoy being part of a motivated team of smart people.
+
+Please find my contact information at the top of this letter, as well as on my enclosed resume. I appreciate your time spent reading this letter, and look forward to connecting in the future.
+
+Dear Hiring Manager,
+
+I would like to introduce myself as an applicant for the Data Scientist position at [], a prestigious and reputable name in innovative technology. I am confident in my ability to perform as a [position] at [company] due to my extensive education and work experience.
+
+During my work experience at [], I had an extensive range of responsibilities including selecting features, optimizing classifiers, mining data, expanding the company's data by incorporating third-party sources, improving data collection techniques, processing data, and doing ad-hoc analyses. As a Data Scientist, I was required to have excellent communication skills, understanding of algorithms, excellence in the [] tool kit, proficiency in [], knowledge of [], and excellence in applied statistics. During my eight-year tenure at [], I applied these skills daily and performed exceptionally at the company.
+
+My abilities as a Data Scientist are rooted in a sturdy education in mathematics. I began with a bachelor's degree in computer science from Longford Tech. I followed this with a master's degree in statistics and a Ph.D. in applied mathematics. I attribute my success as a Data Scientist in large part to this extensive and in-depth education. I believe my personality has also played a major role in my ability to succeed in this career. I am an extremely analytical, data-oriented, and calculated. Even in my personal life I like to look at the data before making a decision. I like to analyze outcomes.
+
+I would like to thank you for taking the time to review my application. I look forward to hearing more about River Tech and the details of the Data Scientist position. I feel that my education and experience will ensure my success in this role.
+
+Dear [],
+
+I am interested in the Data Scientist position with [] and I am confident that I would be a valuable addition to your team.
+
+For the last five years I have worked in a similar position at Facebook where I was responsible for the analysis of raw data and also for contributing to the creation of data products such as []. My time at Facebook taught me how to identify and answer industry-relevant questions and then how to use that information to create a cutting edge advantage for my team in the marketplace.
+
+The Bachelor of [] that I earned from [] was instrumental to my success during my time as a data scientist at []. Along the way to earning my degree I also developed a strong background in mathematics that has served me well in my pursuit to advance the interests of my employers. My experience at [] and my educational background make me a good fit for this position as does my personal passion for logical problem solving.
+
+Your time and consideration are appreciated and I look forward to hearing from you. You can reach me at []. Thanks for your attention.
+
+Dear [],
+
+I am writing you to express my interest in interviewing for the position of Data Scientist. With my Masters degree in Data Science and eight years of experience as a Data Scientist under my belt, I think I can be a great asset to your organization.
+
+My professional experience includes crafting algorithms and making use of machine learning to mine and make sense of data, and then using data visualization to present said data to decision makers. Couple this experience with my passion for data and I think I’d be an excellent fit at [].
+
+What separates me from other candidates with similar qualifications are my written and verbal communication skills. I love talking about data and thrive on explaining the meaning of data to non-technical stakeholders. If you think I’d be a good fit for [], then I’d be thrilled to set up an interview.
+
+Dear [insert hiring manager’s name],
+
+I came across your data scientist job posting while reading one of your organization’s most recent publications, and I was immediately excited to apply given our mutual interest in using data to help audiences make better purchasing decisions. Not to mention, my four years of data analysis experience within the IT industry, my detail-oriented and methodical nature, and my total proficiency in database and modeling software programs will enable me to contribute significantly to your team.
+
+Most recently I have been a lead research and analysis professional with TF Solutions, with a focus on tracking user preferences and market trends. I am well-versed in industry needs and know how to work with minimal input while maintaining exceptional standards for accuracy, efficiency, and quality.With an adaptable and forward-thinking nature, I am always on the hunt for new ways to make research and data analysis more effective at capturing current market information and modeling future business needs.
+
+I am positive that with my experience, knowledge, and drive for excellence I can greatly benefit your leading-edge company.I am confident that my qualifications and your needs are an excellent fit, and I would love to learn more about this opportunity in a formal interview. I can make myself available for an appointment at your earliest convenience. Please also feel free to call me via the phone number or email address listed on my resume. Thank you for your time and consideration.
+
+Dear Ms. Hiring Manager,
+
+I’m applying for the position of Senior Data Scientists (job id: 1234534). My resume with detailed work experience is enclosed. Based on the job description, I think this position looks both fun and challenging — and a great place for me to further my career! If you have a moment, I’d love to ask you more questions around the tools you’re using and the types of projects I might be running if hired.
+
+And, if you have any questions about my resume, feel free to reach out over email or call me directly at my phone number in the signature.
+
+Hope to hear from you soon,
+
+Dear Sir/Madam,
+
+Following your [], I am applying for the position of []. My passion for computer science led me to study Bachelor of []. My academic background reflects strong grades in Mathematics which is an added advantage in pursuing industry-related interests. I am confident that I would be a valuable addition to your team.
+
+For the past two years, I have been a data scientist at Microsoft Co. My responsibilities included analysis of raw data and part of the team that created data products such as Google's Graph Search. Among those I also assisted with casual inferences, analyzing relationships in data developed algorithms and observations with finding patterns. Working at [] enhanced my knowledge on how to identify and answer questions related to data science, then using that information to the advantage of the team.
+
+During my internship, I worked as an entry-level data scientist at Center for Data Science at RTI International. This is one of the state's largest and independent non-profit scientific research centers. I performed duties such as analyzing source data, consumer insights, and behavioral science.
+
+Working for you as one of the largest data scientist company will be a dream come true. I will use my determination for solving problems and bold approach to challenges to improve the reputable status of the company. Your time and consideration are highly appreciated. I have attached my resume' and copies of certifications alongside my cover letter.
+
+I am looking forward to hearing from you.
+
+Dear [insert hiring manager’s name],
+
+I am writing to apply for the [] position now available with []. and I believe that I am an excellent candidate for this job.
+
+While there is no specific area of study assigned to this particular field, I have pursued studies in computer science and mathematics, which I believe has helped prepare me for this position. In addition, much of my studies revolved around [] and [] because I have a genuine interest in these subjects as well.
+
+I have acquired many of the skills needed to hold this position such as having the ability to [] and understand statistical data. I also have the ability to [] to look for current trends in a variety of fields and I am familiar with []. I have strong [] skills that include knowledge of [] and [].
+
+I am hard working, reliable and I have great interpersonal and communication skills. I enjoy working in groups to compare notes and to hear the opinions of other professions but I also have the ability to work alone and maintain efficiency.
+
+I have a real desire to learn more about how this type of business works and how it collects and uses the data received. I believe that I have what it takes to be one of the best Data Scientists in the field and I hope that you will look over my credentials and consider me for this position.
+
+You can contact me by calling [].
+

@@ -1,0 +1,7 @@
+*.txt
+!sample/*.txt
+*.pyc
+*.sh
+*.log
+parameters.py
+*.csv

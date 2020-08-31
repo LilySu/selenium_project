@@ -1,0 +1,73 @@
+
+
+
+
+redirectURI = https://dataanalyticsnyc.com
+URLENCODE(redirectURI) = https%3A%2F%2Fdataanalyticsnyc.com
+clientId = 787cdwtfpxigb6
+clientSecret = 787cdwtfpxigb6
+clientSecret = Lm6YUbR4C1f0CBFW
+
+https://www.linkedin.com/oauth/v2/authorization?response_type=code&state=987654321&scope=r_liteprofile&client_id=787cdwtfpxigb6&redirect_uri=https://www.dataanalyticsnyc.com&state=aRandomString
+
+AQQsxzi8iKIfwe94xoC3g6oEhECJAm7ynkuG9xerGZATEXHyyQAZEaNuer_bCkqokztwus3EzoI2tP70kSIYgplXB0m62mQk0O2F5UEvpei2El8m1J9q8VNnxBQwOW8uZN1vlEg3Kqzn2u4v0Zj5lrtGnb1bOFaEip--iS4l9-Sh6DAvNo0FdZtZLxb-IQ
+curl -ik -X POST https://www.linkedin.com/oauth/v2/accessToken \
+-d grant_type=authorization_code \
+-d code=code \
+-d redirect_uri=URLENCODE(redirectURI) \
+-d client_id=clientId \
+-d client_secret=clientSecret
+
+curl -ik -X POST https://www.linkedin.com/oauth/v2/accessToken \
+-d client_id=787cdwtfpxigb6 \
+-d client_secret=Lm6YUbR4C1f0CBFW \
+-d grant_type=authorization_code \
+-d redirect_uri=https%3A%2F%2Fdataanalyticsnyc.com \
+-d code=AQQsxzi8iKIfwe94xoC3g6oEhECJAm7ynkuG9xerGZATEXHyyQAZEaNuer_bCkqokztwus3EzoI2tP70kSIYgplXB0m62mQk0O2F5UEvpei2El8m1J9q8VNnxBQwOW8uZN1vlEg3Kqzn2u4v0Zj5lrtGnb1bOFaEip--iS4l9-Sh6DAvNo0FdZtZLxb-IQ
+
+{
+   "access_token":"AQVenQFoQxCwQiII5JzWXIIEbwwWOxaoITcFM8JSi6xYPRPKITkEr-mP53o8Wo_AN8CuGpAOEAirTffQN94VQoMtce1-cY5y8brQrP5Top1Ee8YOJi67DgxrX2bA5zh05k03sQVQSOMIIo1Rdqwl4XnM8fxl7mlL9W8khm6qwXoauiexK573fzA2w3GMpqgydeHIy0Ic8YG965eRpMaVOZ0Fdtlv68JosiwBIjsYYZdvbwvz27YOLYZRg4pdpaWCVjvXoNUXaW5oXFhOSmSy5U6grbRXtw3lGvHq1VBfJ97OZpqGpmbGBmkKWCI_5yR4ILLnfDJzo2G7vtvCr3qhiXdf3y6xnw",
+   "expires_in":5183999
+}
+
+curl https://api.linkedin.com/v2/me -H "Authorization: Bearer AQVenQFoQxCwQiII5JzWXIIEbwwWOxaoITcFM8JSi6xYPRPKITkEr-mP53o8Wo_AN8CuGpAOEAirTffQN94VQoMtce1-cY5y8brQrP5Top1Ee8YOJi67DgxrX2bA5zh05k03sQVQSOMIIo1Rdqwl4XnM8fxl7mlL9W8khm6qwXoauiexK573fzA2w3GMpqgydeHIy0Ic8YG965eRpMaVOZ0Fdtlv68JosiwBIjsYYZdvbwvz27YOLYZRg4pdpaWCVjvXoNUXaW5oXFhOSmSy5U6grbRXtw3lGvHq1VBfJ97OZpqGpmbGBmkKWCI_5yR4ILLnfDJzo2G7vtvCr3qhiXdf3y6xnw"
+
+{
+   "localizedLastName":"Su",
+   "profilePicture":{
+      "displayImage":"urn:li:digitalmediaAsset:C4D03AQF-yrzRfzYySQ"
+   },
+   "firstName":{
+      "localized":{
+         "en_US":"Lily"
+      },
+      "preferredLocale":{
+         "country":"US",
+         "language":"en"
+      }
+   },
+   "lastName":{
+      "localized":{
+         "en_US":"Su"
+      },
+      "preferredLocale":{
+         "country":"US",
+         "language":"en"
+      }
+   },
+   "id":"-eSM3bqtde",
+   "localizedFirstName":"Lily"
+}
+
+curl --location --request GET 'https://api.linkedin.com/v2/job-search' \
+-H 'Authorization: Bearer AQVenQFoQxCwQiII5JzWXIIEbwwWOxaoITcFM8JSi6xYPRPKITkEr-mP53o8Wo_AN8CuGpAOEAirTffQN94VQoMtce1-cY5y8brQrP5Top1Ee8YOJi67DgxrX2bA5zh05k03sQVQSOMIIo1Rdqwl4XnM8fxl7mlL9W8khm6qwXoauiexK573fzA2w3GMpqgydeHIy0Ic8YG965eRpMaVOZ0Fdtlv68JosiwBIjsYYZdvbwvz27YOLYZRg4pdpaWCVjvXoNUXaW5oXFhOSmSy5U6grbRXtw3lGvHq1VBfJ97OZpqGpmbGBmkKWCI_5yR4ILLnfDJzo2G7vtvCr3qhiXdf3y6xnw' \
+-d keywords=quality
+-d job-title=Software+Engineer
+
+
+
+
+curl --location --request GET 'http://localhost:3000/v1/jobs' \
+--header 'Content-Type: application/vnd.api+json' \
+--header 'Accept: application/vnd.api+json' \
+--header 'Authorization: AQVenQFoQxCwQiII5JzWXIIEbwwWOxaoITcFM8JSi6xYPRPKITkEr-mP53o8Wo_AN8CuGpAOEAirTffQN94VQoMtce1-cY5y8brQrP5Top1Ee8YOJi67DgxrX2bA5zh05k03sQVQSOMIIo1Rdqwl4XnM8fxl7mlL9W8khm6qwXoauiexK573fzA2w3GMpqgydeHIy0Ic8YG965eRpMaVOZ0Fdtlv68JosiwBIjsYYZdvbwvz27YOLYZRg4pdpaWCVjvXoNUXaW5oXFhOSmSy5U6grbRXtw3lGvHq1VBfJ97OZpqGpmbGBmkKWCI_5yR4ILLnfDJzo2G7vtvCr3qhiXdf3y6xnw'
